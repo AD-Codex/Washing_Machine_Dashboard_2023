@@ -1,0 +1,88 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\Debug\test3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>test3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>test3.map</FILE>
+  <FILE>test3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP_Main><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>55</LINE></SETUP_Main>
+  <INTO_Handler><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>780</LINE></INTO_Handler>
+  <TOVF1_ISR><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>750</LINE></TOVF1_ISR>
+  <EEPROM_read><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>493</LINE></EEPROM_read>
+  <newStart><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>157</LINE></newStart>
+  <powerOut><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>155</LINE></powerOut>
+  <EEPROM_ckeched><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>66</LINE></EEPROM_ckeched>
+  <SETUP><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>88</LINE></SETUP>
+  <Wlevel><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>96</LINE></Wlevel>
+  <wait_adc><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>100</LINE></wait_adc>
+  <lowLevel><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>133</LINE></lowLevel>
+  <midLevel><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>139</LINE></midLevel>
+  <highLevel><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>145</LINE></highLevel>
+  <Start_check><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>122</LINE></Start_check>
+  <Ultrasoinc_check><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>168</LINE></Ultrasoinc_check>
+  <Seven_segment><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>586</LINE></Seven_segment>
+  <main><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>294</LINE></main>
+  <EEPROM_write><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>470</LINE></EEPROM_write>
+  <delay_timer0><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>238</LINE></delay_timer0>
+  <echo_PW><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>208</LINE></echo_PW>
+  <WLevel_con><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>193</LINE></WLevel_con>
+  <delay_ms><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>262</LINE></delay_ms>
+  <main1234><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>198</LINE></main1234>
+  <l1><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>213</LINE></l1>
+  <l2><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>223</LINE></l2>
+  <l0><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>246</LINE></l0>
+  <l6><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>264</LINE></l6>
+  <l7><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>266</LINE></l7>
+  <l8><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>268</LINE></l8>
+  <main_start_><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>285</LINE></main_start_>
+  <start><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>336</LINE></start>
+  <DoorOpen><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>381</LINE></DoorOpen>
+  <Pause><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>404</LINE></Pause>
+  <TimeCheck><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>559</LINE></TimeCheck>
+  <End><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>430</LINE></End>
+  <Divide_number><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>537</LINE></Divide_number>
+  <Delay_1milles><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>517</LINE></Delay_1milles>
+  <plus_dir><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>373</LINE></plus_dir>
+  <plus_dir1><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>370</LINE></plus_dir1>
+  <End_reset><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>455</LINE></End_reset>
+  <iLoop><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>520</LINE></iLoop>
+  <div_1><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>539</LINE></div_1>
+  <div_10><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>545</LINE></div_10>
+  <minutesC><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>563</LINE></minutesC>
+  <num_check><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>645</LINE></num_check>
+  <Display><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>620</LINE></Display>
+  <loop><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>622</LINE></loop>
+  <_pinSet><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>640</LINE></_pinSet>
+  <testtt><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>625</LINE></testtt>
+  <con0><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>708</LINE></con0>
+  <con1><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>711</LINE></con1>
+  <con2><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>714</LINE></con2>
+  <con3><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>717</LINE></con3>
+  <con4><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>720</LINE></con4>
+  <con5><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>723</LINE></con5>
+  <con6><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>726</LINE></con6>
+  <con7><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>729</LINE></con7>
+  <con8><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>732</LINE></con8>
+  <con9><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>735</LINE></con9>
+  <con10><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>738</LINE></con10>
+  <con11><FILE>C:\Users\DELL\Projects\Embedded_Washine machine 2022\test_3\test3 - complete set - Copy\test3\main.asm</FILE><LINE>741</LINE></con11>
+ </LABELS>
+</ASSEMBLER_INFO>
