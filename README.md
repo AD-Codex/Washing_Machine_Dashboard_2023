@@ -11,7 +11,7 @@ This is a Dashboard setup for Automatic Washing machine. Atmega328p chip was use
     3.  Time counter
     4.  Error visibility
 
-## ------------------------------- Controlling Unit Process --------------------------------------
+## Controlling Unit Process
 
     1.  In main menu "HI" display in the 7 segment
     2.  Close the machine door
