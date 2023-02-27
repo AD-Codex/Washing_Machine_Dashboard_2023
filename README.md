@@ -7,7 +7,9 @@ This is a Dashboard setup for Automatic Washing machine. Atmega328p chip was use
 
 ## Function
     1.  7 segment Display
-    2.  EEPROM 
+    2.  EEPROM capability
+    3.  Time counter
+    4.  Error visibility
 
 ## ------------------------------- Controlling Unit Process --------------------------------------
 
