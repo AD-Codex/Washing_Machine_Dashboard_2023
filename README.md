@@ -3,7 +3,7 @@
 This is a Dashboard setup for Automatic Washing machine. Atmega328p chip was used for the task. 74HC595 shift register used for 7 segment display.
 
 Youtube Link - https://youtu.be/mjMhEYf4CbU
-
+#
 ![Screenshot (28) copy](https://user-images.githubusercontent.com/126350818/221586056-50a6d41e-8dff-4f25-a6ea-87ef66f4b395.jpg)
 
 
